@@ -5,13 +5,13 @@
 	"shortFormVideos": [{
 		"id": "e768ba6d5239839db7928ca1207509eb",
 		"title": "WSVN News Live",
+		"duration": 9999,
 		"shortDescription": "Channel 7 News Live",
 		"thumbnail": "http://ericmason.github.io/roku/channel-thumbnail.png",
 		"releaseDate": "2017-09-09",
 		"content": {
 			"dateAdded": "2017-09-09T20:33:54.431Z",
 			"captions": [],
-			"adBreaks": [],
 			"videos": [{
 				"url": "http://bcoveliveios-i.akamaihd.net/hls/live/246495/4368278029001_1/onair/master.m3u8",
 				"quality": "HD",
