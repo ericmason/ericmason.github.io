@@ -8,6 +8,7 @@
 		"shortDescription": "Channel 7 News Live",
 		"thumbnail": "https://blog.roku.com/developer/files/2016/10/twitch-poster-artwork.png",
 		"releaseDate": "2017-09-09",
+		"tags": ["news"],
 		"content": {
 			"dateAdded": "2017-09-09T20:33:54.431Z",
 			"captions": [],
