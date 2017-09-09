@@ -19,5 +19,28 @@
 				"videoType": "HLS"
 			}]
 		}
+	}],
+	"playlists": [{
+		"name": "sports",
+		"itemIds": ["e768ba6d5239839db7928ca1207509eb"]
+	}, {
+		"name": "misc",
+		"itemIds": ["e768ba6d5239839db7928ca1207509eb"]
+	}, {
+		"name": "short-form",
+		"itemIds": ["e768ba6d5239839db7928ca1207509eb"]
+	}],
+	"categories": [{
+		"name": "Roku Recommends",
+		"playlistName": "short-form",
+		"order": "manual"
+	}, {
+		"name": "Sports \u0026 Gaming",
+		"playlistName": "sports",
+		"order": "manual"
+	}, {
+		"name": "Miscellaneous",
+		"playlistName": "misc",
+		"order": "manual"
 	}]
 }
